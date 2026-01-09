@@ -35,5 +35,3 @@ The script combines the wholesale exchange rate (A3500) with a daily FX bands sy
 - pandas
 - numpy
 - matplotlib
-- numpy
-- matplotlib
