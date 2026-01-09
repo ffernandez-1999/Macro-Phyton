@@ -1,6 +1,6 @@
 # BCRA FX Bands Tracker
 
-Python project that reconstructs and visualizes the Argentine FX bands scheme using official Central Bank data.
+Python project that reconstructs and visualizes the Argentine FX bands scheme.
 
 The script combines the wholesale exchange rate (A3500) with a daily FX bands system, following the rules applied by the BCRA during 2025 and 2026.
 
